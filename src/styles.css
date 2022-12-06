@@ -1,0 +1,95 @@
+h1 {
+  display: inline;
+  font-size: 62px;
+  margin: 0 auto;
+  color: #45494e;
+}
+h2 {
+  margin: 0 auto;
+  color: #60656d;
+  font-size: 40px;
+}
+h3 {
+  font-size: 16px;
+  color: #727783;
+  margin: 0 auto;
+}
+img {
+  width: 50px;
+  opacity: 0.7;
+}
+a {
+  text-decoration: none;
+}
+.container {
+  font-family: "Nunito", sans-serif;
+  border: solid 2px #d9edfd;
+  background-color: #f8fcff;
+  margin: 0 auto;
+  width: 500px;
+  height: 380px;
+}
+.input-form {
+  background-color: #eef6fc;
+  border: solid 2px #c6e0f3;
+  margin: 36px 0 0 6px;
+  padding: 5px;
+  width: 270px;
+}
+.search-icon {
+  position: relative;
+  left: -30px;
+  top: -3px;
+  color: #6d5bf0;
+  width: 18px;
+}
+.col {
+  text-align: center;
+}
+.cities {
+  color: #42a5f5;
+  width: 41%;
+  font-size: 12px;
+  padding: 4px 8px;
+}
+.hum-wind {
+  margin: 60px 0 0 40px;
+}
+.right-side {
+  position: relative;
+  right: -150px;
+  top: -164px;
+  text-align: center;
+}
+.degrees {
+  margin-top: 30px;
+}
+.degrees-img {
+  position: relative;
+  top: -14px;
+  width: 62px;
+}
+
+.bottom {
+  font-size: 12px;
+  color: #727783;
+  margin: 10px;
+  position: relative;
+  left: 0;
+  right: 30px;
+  bottom: 160px;
+}
+.align-items-start {
+  font-size: 15px;
+  margin-bottom: 6px;
+}
+#celcius,
+#cefa,
+#fahrenheit {
+  position: relative;
+  top: -23px;
+}
+#button {
+  background-color: #9cbcd6;
+  border: solid 2px #c6e0f3;
+}
